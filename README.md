@@ -1,7 +1,7 @@
-## 👋🏽 Hey, I'm Stanley Elochukwu
+## 👋🏽 Hi!, I'm Stanley Elochukwu
 
 🚀 **DevOps & Cloud Engineer**  
-📍 Based in Nigeria | Focused on CI/CD • IaC • Automation
+📍 Currently based in Nigeria | Focused on CI/CD • IaC • Automation
 
 I am a BSc Information Technology Alumni.  
 I'm passionate about Cloud Computing, DevOps, and infrastructure automation.  
