@@ -1,6 +1,6 @@
 ## 👋🏽 Hi!, I'm Stanley Elochukwu
 
-🚀 **DevOps & Cloud Engineer**  
+🚀 **DevOps & Site Reliability Engineer**  
 📍 Currently based in Nigeria | Focused on CI/CD • IaC • Automation
 
 I am a BSc Information Technology Alumni.  
